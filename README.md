@@ -15,7 +15,13 @@
 
 Add the following dependency to your `build.gradle` file
 
-maven { url 'https://jitpack.io' }
+<Latest-version> -> beta-1.0.0
+
+maven { 
+
+url 'https://jitpack.io'
+
+}
 
 	dependencies {
  
