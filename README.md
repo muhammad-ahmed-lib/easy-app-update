@@ -15,7 +15,7 @@
 
 Add the following dependency to your `build.gradle` file
 
-<Latest-version> -> beta-1.0.0
+<Latest-version> -> 1.0.1
 
 maven { 
 
@@ -204,6 +204,14 @@ private val updateLauncher = registerForActivityResult(
 ) { result ->
     // Handle the result here
 }
+
+#Sample
+
+
+https://github.com/user-attachments/assets/ce6f0000-5e75-4627-9b0f-3bf5548d6b9c
+
+
+
 License
 
 This library is licensed under the MIT License.
